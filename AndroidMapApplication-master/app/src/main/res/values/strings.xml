@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">ATM Repo</string>
+    <string name="title_activity_maps">ATMREPO</string>
+    <string name="title_activity_side_menu">Settings</string>
+
+    <string name="title_section1">Menu</string>
+    <string name="title_section2">Posicion Acutal</string>
+    <string name="title_section3">Acerca de </string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_activity__ingreso_atm">Ingreso Cajero</string>
+    <string name="txt_bancos">Bancos:</string>
+    <string name="txt_longitud"></string>
+    <string name="txt_latitud"></string>
+
+    <string name="btn_ingresar_atm"></string>
+    <string-array name="lista_bancos">
+
+        <item>Pichincha</item>
+        <item>Pacifico</item>
+        <item>Produbanco</item>
+        <item>Bolivariano</item>
+        <item>Internacional</item>
+        <item>Austro</item>
+        <item>Promerica</item>
+        <item>Machala</item>
+        <item>BGR</item>
+        <item>Citibank</item>
+        <item>ProCredit</item>
+        <item>Unibanco</item>
+        <item>Solidario</item>
+        <item>Loja</item>
+        <item>Territorial</item>
+        <item>Coopnacional</item>
+        <item>Capital</item>
+        <item>Amazonas</item>
+        <item>D-MIRO</item>
+        <item>Finca</item>
+        <item>Amazonas</item>
+        <item>Comercial de Manabi</item>
+        <item>COFIEC</item>
+        <item>Litoral</item>
+        <item>Delbank</item>
+        <item>Sudamericano</item>
+
+    </string-array>
+    <string name="title_activity_acerca__de">Acerca De</string>
+    <string name="title_activity_anadir__marcadores">Anadir_Marcadores</string>
+    <string name="title_activity_marc">Marc</string>
+
+    <string name="hello_world">Hello world!</string>
+
+
+</resources>
